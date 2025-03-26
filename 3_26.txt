@@ -1,0 +1,15 @@
+-implement basic GUI using tkinter
+	-weekly schedule
+	-save and load schedule
+	-manual save button
+	-implement function menu
+		-manual save
+		-add task(not fully implemented yet)
+		-help document
+	-implement unsaved reminder
+
+
+next:
+
+-more humanic and intelligent task-adding
+-more than one week scheduling
