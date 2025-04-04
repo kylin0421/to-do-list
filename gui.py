@@ -91,7 +91,7 @@ class Autodo:
         window.title("Help")
 
         help_text = """
-📝 How to Use:
+How to Use:
 
 1. Enter task content directly in the schedule table
 2. Click 'Actions' -> 'Save Schedule' to save your current plan
