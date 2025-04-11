@@ -180,7 +180,39 @@ How to Use:
         # Intercept close button to check for unsaved changes
         self.root.protocol("WM_DELETE_WINDOW", self.on_close)
 
+
+def format_check(test_input):
+    '''
+    test_inputs = [
+    "Hello, World!",     
+    "你好，世界！",         
+    "😀🚀✨",           
+    "!@#$%^&*()[]{}",     
+    " " * 100,            
+    "a" * 1000,           
+    "\tTabbed\tText",     
+]
+    '''
+    root = tk.Tk()
+    root.title("Entry format test")
+
+    entry = tk.Entry(root, width=50, justify='left')
+    entry.pack(padx=10, pady=10)
+
+    entry.delete(0, tk.END)
+    entry.insert(0, test_input)
+
+
+    root.destroy()
+
+    root.mainloop()
+
+
+
 if __name__ == "__main__":
-    autodo = Autodo(title="Weekly Schedule", geometry="1024x720", SAVE_FILE="weekly_schedule.json")
-    autodo.create_week_schedule()
-    autodo.root.mainloop()
+    #autodo = Autodo(title="Weekly Schedule", geometry="1024x720", SAVE_FILE="weekly_schedule.json")
+    #autodo.create_week_schedule()
+    #autodo.root.mainloop()
+
+
+    format_check("try")
