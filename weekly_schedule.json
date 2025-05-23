@@ -1,88 +1,10 @@
 {
   "tasks": {
-    "Monday|8:00": {
-      "name": "daily",
-      "priority": "high",
-      "notes": "",
-      "created": "2025-05-21 14:37",
-      "completed": false,
-      "repeat": "Daily"
-    },
-    "Tuesday|12:00": {
-      "name": "Lunch",
-      "priority": "medium",
-      "notes": "",
-      "created": "2025-05-21 14:10",
-      "completed": false
-    },
-    "Thursday|17:00": {
-      "name": "hang_out",
-      "priority": "medium",
-      "notes": "",
-      "created": "2025-05-21 14:10",
-      "completed": false
-    },
-    "Tuesday|8:00": {
-      "name": "daily",
-      "priority": "high",
-      "notes": "",
-      "created": "2025-05-21 14:37",
-      "completed": false,
-      "repeat": "Daily"
-    },
-    "Wednesday|8:00": {
-      "name": "daily",
-      "priority": "high",
-      "notes": "",
-      "created": "2025-05-21 14:37",
-      "completed": false,
-      "repeat": "Daily"
-    },
-    "Thursday|8:00": {
-      "name": "daily",
-      "priority": "high",
-      "notes": "",
-      "created": "2025-05-21 14:37",
-      "completed": false,
-      "repeat": "Daily"
-    },
-    "Friday|8:00": {
-      "name": "daily",
-      "priority": "high",
-      "notes": "",
-      "created": "2025-05-21 14:37",
-      "completed": false,
-      "repeat": "Daily"
-    },
-    "Saturday|8:00": {
-      "name": "daily",
-      "priority": "high",
-      "notes": "",
-      "created": "2025-05-21 14:37",
-      "completed": false,
-      "repeat": "Daily"
-    },
-    "Sunday|8:00": {
-      "name": "daily",
-      "priority": "high",
-      "notes": "",
-      "created": "2025-05-21 14:37",
-      "completed": false,
-      "repeat": "Daily"
-    },
-    "Monday|15:00": {
+    "Tuesday|11:00": {
       "name": "1",
       "priority": "medium",
       "notes": "",
-      "created": "2025-05-21 14:47",
-      "completed": false,
-      "repeat": "None"
-    },
-    "Friday|15:00": {
-      "name": "hhh",
-      "priority": "medium",
-      "notes": "",
-      "created": "2025-05-21 14:48",
+      "created": "2025-05-23 13:53",
       "completed": false
     }
   }
