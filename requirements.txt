@@ -1,0 +1,3 @@
+# Autodo - Weekly Schedule Manager
+# This project uses only Python standard libraries
+python>=3.6
