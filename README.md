@@ -15,7 +15,7 @@ Managing your week can be hard to visualize. Autodo solves this by:
 
 ---
 
-## 🔍 Core Features
+##  Core Features
 
 - ** Grid-based Interface**: Week view organized by **days** and **hours**
 - ** Add Tasks**: Click a cell or use the “Add Task” button
@@ -29,7 +29,7 @@ Managing your week can be hard to visualize. Autodo solves this by:
 
 ---
 
-## ⚙ Advanced Features
+##  Advanced Features
 
 - ** Recurring Tasks**: Supports daily, weekly, and weekdays-only repetition
 - ** Search**: Quickly locate tasks by keyword
